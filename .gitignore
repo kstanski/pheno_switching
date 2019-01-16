@@ -1,0 +1,7 @@
+/venv
+/data
+/img
+/.idea
+*.pyc
+*.DS_Store
+
